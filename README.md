@@ -1,0 +1,2 @@
+# JavaScript_Intro_Lesson
+Udacity上的JavsScript入門課程，lesson中的練習，程式碼會在這裏面。
